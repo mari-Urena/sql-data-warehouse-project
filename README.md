@@ -1,13 +1,13 @@
 # 📊 SQL Data Warehouse Project
 
-## 📌 Overview
+## Overview
 This project showcases the design and implementation of a **modern data warehouse using SQL Server**, covering data ingestion, ETL processes, data modeling, and analytical querying.
 
 The goal of this project is to demonstrate **data engineering and analytics best practices** through a hands-on, end-to-end implementation suitable for portfolio purposes.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Build a centralized SQL Server data warehouse
 - Integrate data from multiple source systems (ERP & CRM)
@@ -22,12 +22,11 @@ Key analytical focus areas:
 
 ---
 
-## 🏗️ Project Scope & Structure
+## Project Scope & Structure
 
 ### Data Engineering
 - Import data from CSV files (ERP and CRM systems)
 - Resolve data quality issues prior to analysis
-- Implement fact and dimension tables
 - Apply best practices in data warehouse modeling
 
 ### Analytics & Reporting
@@ -37,7 +36,7 @@ Key analytical focus areas:
 
 ---
 
-## 🔧 My Contributions & Customizations
+## My Contributions & Customizations
 
 While this project is inspired by an existing educational project, the following elements reflect **my own work and adaptations**:
 
@@ -51,7 +50,7 @@ This section will continue to evolve as I expand the project.
 
 ---
 
-## 📚 Inspiration & Credits
+## Inspiration & Credits
 
 This project is inspired by the **Data Warehouse and Analytics Project** created by  
 **Baraa Khatib Salkini (Data With Baraa)**.

@@ -11,6 +11,9 @@ performing data type casting. Derived columns are also generated (e.g., end date
 window functions), and the dataset is enriched to make it more useful for analysis, 
 resulting in cleaner, structured, and business-aligned data.
 
+- Truncates silver tables
+- inserts transformed and cleaned data bronze into silver tables
+
 
 */
 
